@@ -1,5 +1,5 @@
-import Sona1HealthDemo2 from "../sona-1health-demo2.jsx";
+import Sona1HealthDemo3 from "../sona-1health-demo3.jsx";
 
 export default function App() {
-  return <Sona1HealthDemo2 />;
+  return <Sona1HealthDemo3 />;
 }
